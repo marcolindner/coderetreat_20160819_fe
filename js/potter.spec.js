@@ -50,7 +50,7 @@ describe('potterSpec', function () {
     });
     describe('When Basket contains four different books', function () {
         it('Should give 5 percent discount for each book', function () {
-            expect(basket.calculate([1, 1, 1, 1])).toBe(28.8);
+            expect(basket.calculate([1, 1, 1, 1])).toBe(25.6);
         });
     });
     describe('When Basket contains more books', function () {
