@@ -35,7 +35,7 @@ describe('potterSpec', function () {
     });
     describe('When Basket contains the same book five times', function () {
         it('Should calculate with the full price for five books', function () {
-            expect(basket.calculate([5])).toBe(41);
+            expect(basket.calculate([5])).toBe(40);
         });
     });
     describe('When Basket contains two different books', function () {
@@ -45,7 +45,7 @@ describe('potterSpec', function () {
     });
     describe('When Basket contains three different books', function () {
         it('Should give 5 percent discount for each book', function () {
-            expect(basket.calculate([1, 1, 1])).toBe(22.8);
+            expect(basket.calculate([1, 1, 1])).toBe(21.6);
         });
     });
     describe('When Basket contains more books', function () {
