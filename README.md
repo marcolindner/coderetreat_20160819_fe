@@ -1,8 +1,8 @@
 # CodeRetreat 19.08.2016
 ## Harry Potter
 ![alt text](https://api.travis-ci.org/marcolindner/coderetreat_20160819_fe.svg?branch=master "Travis CI")
-![alt text](https://david-dm.org/marcolindner/coderetreat_20160819_fe.svg "David DM")
-![alt text](https://david-dm.org/marcolindner/coderetreat_20160819_fe.svg?type=dev "David DM")
+[![dependencies Status](https://david-dm.org/marcolindner/coderetreat_20160819_fe/status.svg)](https://david-dm.org/marcolindner/coderetreat_20160819_fe)
+[![devDependencies Status](https://david-dm.org/marcolindner/coderetreat_20160819_fe/dev-status.svg)](https://david-dm.org/marcolindner/coderetreat_20160819_fe?type=dev)
 
 
 
